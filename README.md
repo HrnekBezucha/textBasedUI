@@ -3,5 +3,5 @@ textBasedUI
 
 Py3 applications using text-based user interface
 
-Using python built-in module curses
+Using python built-in module curses and more useful module urwid.
 
