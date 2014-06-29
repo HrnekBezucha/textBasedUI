@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''
 Prints fancy banner
+Source: http://urwid.org/tutorial/index.html#display-attributes
 '''
 import urwid
 

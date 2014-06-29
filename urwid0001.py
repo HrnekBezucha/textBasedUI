@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''
 App prints pressed button
+source: http://urwid.org/tutorial/index.html#global-input
 '''
 import urwid
 
